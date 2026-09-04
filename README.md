@@ -89,7 +89,7 @@ An image-processing and machine-learning-based project for identifying fake curr
 
 **Technologies:** Python | OpenCV | Machine Learning
 
-🔗 **Repository:** Add your repository link here
+🔗 **Repository:** [Add your repository link here](https://github.com/hemanth779922/smart-campus-management-platform)
 
 ---
 
@@ -135,15 +135,6 @@ A system for automatically generating and managing academic timetables efficient
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/hemanth779922/hemanth779922/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 📈 My Coding Journey
 

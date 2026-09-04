@@ -79,7 +79,7 @@ A platform designed to help manage and improve different campus-related activiti
 
 **Technologies:** Full-Stack Development | JavaScript | Web Technologies
 
-🔗 **Repository:** Add your repository link here
+🔗 **Repository:** [Add your repository link here](https://github.com/hemanth779922/smart-campus-management-platform)
 
 ---
 
@@ -89,7 +89,7 @@ An image-processing and machine-learning-based project for identifying fake curr
 
 **Technologies:** Python | OpenCV | Machine Learning
 
-🔗 **Repository:** [Add your repository link here](https://github.com/hemanth779922/smart-campus-management-platform)
+🔗 **Repository:** [Add your repository link here]
 
 ---
 
@@ -99,7 +99,7 @@ A smart system that detects falls using camera-based monitoring and can be exten
 
 **Technologies:** Python | Computer Vision | AI
 
-🔗 **Repository:** Add your repository link here
+🔗 **Repository:** [Add your repository link here](https://github.com/hemanth779922/fall_detection_alert_system)
 
 ---
 
